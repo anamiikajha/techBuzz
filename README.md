@@ -1,2 +1,2 @@
-# quiz-app
- React quiz app
+# techBuzz
+- Its a simple react quiz app
